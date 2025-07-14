@@ -1,47 +1,44 @@
-AI-Powered Job Matcher
+#  AI-Powered Job Matcher
 
-A full-stack web application that intelligently analyzes uploaded resumes and recommends the most suitable job roles based on skills and experience.
+A full-stack web application that intelligently analyzes uploaded resumes and recommends the most suitable job roles based on extracted skills and experience.
 
+---
 
-Features
- User Features
-Upload resumes (PDF or DOCX)
+##  Features
 
-Extracts text using AI/ML logic
+### 👤 User Features
+- Upload resumes (PDF or DOCX)
+- AI/ML-based resume text extraction
+- Smart job matching based on skills
+- Save favorite job recommendations for later
 
-Smart job matching based on skills
+---
 
-Save favorite job recommendations
+##  Tech Stack
 
+###  Frontend
+- React.js
+- Bootstrap 5
+- Axios
 
-Tech Stack
-Frontend:
-React.js
+###  Backend
+- Node.js
+- Express.js
+- MongoDB
+- Multer (for file upload)
 
-Bootstrap 5
+###  AI Logic
+- Resume text parsing and keyword extraction
+- Matching against a job role dataset using basic string similarity logic
 
-Axios
+---
 
-Backend:
-Node.js
+##  How to Run Locally
 
-Express.js
+### 1. Clone the Repository
+git clone https://github.com/your-username/job-matcher.git
+cd job-matcher
 
-MongoDB
-
-Multer (for file upload)
-
-
-AI Logic:
-Resume text parsing and job matching using keyword extraction
-
-Matching against a predefined job role dataset using string similarity
-
-
-How to Run Locally
-Clone the repo
-
-Install dependencies
 
 For client:
 cd client && npm install
@@ -56,14 +53,6 @@ Start frontend
 cd client && npm start
 
 Go to http://localhost:3000
-
-
-Future Enhancements
-Integrate OpenAI/GPT for smarter job-role suggestions
-
-Auto-fill LinkedIn profile to generate resume
-
-Job recommendation via real-time job APIs
 
 
 Usage
