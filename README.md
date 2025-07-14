@@ -37,6 +37,7 @@ A full-stack web application that intelligently analyzes uploaded resumes and re
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/job-matcher.git
+
 cd job-matcher
 
 
