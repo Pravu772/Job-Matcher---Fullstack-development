@@ -6,7 +6,7 @@ A full-stack web application that intelligently analyzes uploaded resumes and re
 
 ##  Features
 
-### 👤 User Features
+###  User Features
 - Upload resumes (PDF or DOCX)
 - AI/ML-based resume text extraction
 - Smart job matching based on skills
@@ -55,7 +55,8 @@ cd client && npm start
 Go to http://localhost:3000
 
 
-Usage
+Usage:
+
 Register or Login as a user
 
 Upload your resume (PDF or DOCX)
@@ -67,7 +68,8 @@ Save jobs for future viewing
 View them under Saved Jobs section
 
 
-Future Enhancements
+Future Enhancements:
+
 Integrate OpenAI/GPT for smarter job-role suggestions
 
 Auto-fill LinkedIn profile to generate resume
