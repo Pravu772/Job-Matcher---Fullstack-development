@@ -1,6 +1,6 @@
 #  AI-Powered Job Matcher
 
-A full-stack web application that intelligently analyzes uploaded resumes and recommends the most suitable job roles based on extracted skills and experience.
+A MERN Stack web application that intelligently analyzes uploaded resumes and recommends the most suitable job roles based on extracted skills and experience.
 
 ---
 
@@ -80,7 +80,7 @@ Job recommendation via real-time job APIs
 
 ## 👤 Contributor
 
-**Pravin M** – Full Stack Developer  
+**Pravin M** – MERN Stack Developer  
 _Designed and developed the full application using React, Node.js, Express, and MongoDB._
 
 If you found this project useful, feel free to ⭐ the repo!
